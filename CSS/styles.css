@@ -1,0 +1,15 @@
+/** @format */
+
+h1 {
+  text-align: center;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
